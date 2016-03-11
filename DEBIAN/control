@@ -1,0 +1,9 @@
+Package: duzeru-theme-gtk2
+Version: 1.0.0
+Section: theme-gtk
+Architecture: all
+Priority: optional
+Maintainer: Claudio A. Silva(claudiosilva@duzeru.org)
+Homepage: http://www.duzeru.org
+Description: Tema para usar em interfaces que usam gtk2 e gtk3 .
+ um tema escuro cheio de beleza e elegância.
