@@ -1,9 +1,9 @@
 /* default color scheme */
-@define-color bg_color #696969;
+@define-color bg_color #fff;
 /*---------padrão #eee--#696969----------*/
 
 /*cor da letra ao lado do nautilus*/
-@define-color fg_color #fff;
+@define-color fg_color #000;
 /*--------------------------------*/
 
 /*--------cor dentro aba base de conteudo---------*/
